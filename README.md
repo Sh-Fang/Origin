@@ -8,9 +8,9 @@ Display the creation time of the github repository.
 
 Disable scripts：
 
-![Alt text](image-1.png)
+![Alt text](img/image-1.png)
 
 Enable scripts：
 
-![Alt text](image-2.png)
+![Alt text](img/image-2.png)
 
